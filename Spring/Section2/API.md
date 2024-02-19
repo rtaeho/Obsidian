@@ -14,7 +14,7 @@
 ```
 
 **@ResponseBody**
-: **viewResolver** 를 사용하지 않고 HTTP의 BODY에 문자 내용을 **직접** 반환 (문자열 그대로)
+	: **viewResolver** 를 사용하지 않고 HTTP의 BODY에 문자 내용을 **직접** 반환 (문자열 그대로)
 
 
 **@ResponseBody 객체 반환** 

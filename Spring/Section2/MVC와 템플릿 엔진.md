@@ -14,16 +14,16 @@ MVC는 Model, View, Controller를 뜻함
 }
 ```
 **@Controller**
-: 해당 자바 클래스가 Controller임을 나타냄
+	: 해당 자바 클래스가 Controller임을 나타냄
 
 **@GetMapping("name")**
-: `localhost:8080/name`을 통해 요청을 받았을 때 name에 해당하는 view를 반환
+	: `localhost:8080/name`을 통해 요청을 받았을 때 name에 해당하는 view를 반환
 
 **@RequestParam("name") String name, Model model**
-: 웹에서 받아온 String 객체를 _Model_ 에 담고, 그 _Model_ 은 View에서 렌더링할때 사용
+	: 웹에서 받아온 String 객체를 _Model_ 에 담고, 그 _Model_ 은 View에서 렌더링할때 사용
 
-**model.addAttribute("name", name);**
-: 파라미터로 넘어온 _name_ 을 _Model_ 에 저장
+`model.addAttribute("name", name);`
+	: 파라미터로 넘어온 _name_ 을 _Model_ 에 저장
 
 **그러므로**, URL상에서 `"localhost:8080/hello-mvc?name=값"`처럼 값을 통해 파라미터 _name_ 을 넣어 요청해야 함
 
