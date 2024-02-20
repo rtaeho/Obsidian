@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9e1dddfc39af3960",
@@ -149,10 +148,10 @@
   },
   "active": "a11e3f1c4391864b",
   "lastOpenFiles": [
+    "Spring/Section4/자바 코드로 직접 스프링 빈 등록하기.md",
+    "Spring/Section4/컴포넌트 스캔과 자동 의존관계 설정.md",
     "image/Pasted image 20240220170124.png",
     "Spring/Section3/비즈니스 요구사항 정리.md",
-    "Spring/Section4/컴포넌트 스캔과 자동 의존관계 설정.md",
-    "Spring/Section4/자바 코드로 직접 스프링 빈 등록하기.md",
     "Spring/Section3/회원 서비스 테스트.md",
     "Spring/Section4",
     "Spring/Section3/회원 서비스 개발.md",
