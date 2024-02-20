@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spring/Section3/회원 서비스 테스트.md",
+                "file": "Spring/Section4/컴포넌트 스캔과 자동 의존관계 설정.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Section3/회원 서비스 테스트.md",
+                "file": "Spring/Section4/컴포넌트 스캔과 자동 의존관계 설정.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Section3/회원 서비스 테스트.md",
+                "file": "Spring/Section4/컴포넌트 스캔과 자동 의존관계 설정.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Section3/회원 서비스 테스트.md"
+                "file": "Spring/Section4/컴포넌트 스캔과 자동 의존관계 설정.md"
               }
             }
           }
@@ -149,14 +149,18 @@
   },
   "active": "a11e3f1c4391864b",
   "lastOpenFiles": [
-    "Spring/Section3/회원 리포지토리 테스트 케이스 작성.md",
+    "image/Pasted image 20240220170124.png",
+    "Spring/Section3/비즈니스 요구사항 정리.md",
+    "Spring/Section4/컴포넌트 스캔과 자동 의존관계 설정.md",
+    "Spring/Section4/자바 코드로 직접 스프링 빈 등록하기.md",
     "Spring/Section3/회원 서비스 테스트.md",
+    "Spring/Section4",
     "Spring/Section3/회원 서비스 개발.md",
+    "Spring/Section3/회원 리포지토리 테스트 케이스 작성.md",
+    "Spring/Section3/회원 도메인과 리포지토리 만들기.md",
     "Spring/Section2/정적 컨텐츠.md",
     "Spring/Section2/MVC와 템플릿 엔진.md",
     "Spring/Section2/API.md",
-    "Spring/Section3/비즈니스 요구사항 정리.md",
-    "Spring/Section3/회원 도메인과 리포지토리 만들기.md",
     "image/MemoryMemberRepositoryTest.java",
     "image/Pasted image 20240218225652.png",
     "image/Pasted image 20240218225009.png",
