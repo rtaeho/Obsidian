@@ -11,8 +11,12 @@
             "id": "7b4c11af67ea8eb0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Spring/Sectoin6/스프링 JdbcTemplate.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "9e1dddfc39af3960",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Spring/Sectoin6/스프링 JdbcTemplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Spring/Sectoin6/스프링 JdbcTemplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Spring/Sectoin6/스프링 JdbcTemplate.md"
+              }
             }
           }
         ]
@@ -141,9 +148,20 @@
   },
   "active": "7b4c11af67ea8eb0",
   "lastOpenFiles": [
-    "Spring/Section5/회원 웹 기능 - 등록.md",
+    "Spring/Sectoin6/스프링 통합 테스트.md",
+    "Spring/Sectoin6/순수 JDBC.md",
+    "Spring/Sectoin6/H2 데이터베이스 설치.md",
+    "Spring/Sectoin6/스프링 데이터 JPA.md",
+    "Spring/Sectoin6/JPA.md",
+    "Spring/Sectoin6/스프링 JdbcTemplate.md",
+    "image/Pasted image 20240229184609.png",
+    "무제 파일.md",
+    "image/Pasted image 20240229164411.png",
     "Spring/Section5/회원 웹 기능 - 조회.md",
+    "Spring/Section5/회원 웹 기능 - 등록.md",
     "Spring/Section5/회원 웹 기능 - 홈 화면 추가.md",
+    "무제 폴더",
+    "Spring/Sectoin6",
     "Spring/Section4/컴포넌트 스캔과 자동 의존관계 설정.md",
     "Spring/Section4/자바 코드로 직접 스프링 빈 등록하기.md",
     "Spring/Section5",
@@ -167,7 +185,6 @@
     "image",
     "image/Pasted image 20240214161338.png",
     "Pasted image 20240214150901.png",
-    "Pasted image 20240214150907.png",
     "Spring/Section2.md",
     "Spring/Section2",
     "Spring"
