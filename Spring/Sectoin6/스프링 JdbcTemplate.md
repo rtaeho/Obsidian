@@ -103,3 +103,6 @@ public class SpringConfig {
     }  
 }
 ```
+
+**JDBCTemplate을 이용한 쿼리** [JdbcTemplate을 이용한 쿼리 실행](https://velog.io/@ogu1208/spring-JdbcTemplate%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%BF%BC%EB%A6%AC-%EC%8B%A4%ED%96%89)
+	:
