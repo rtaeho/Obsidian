@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "31a8c90db62b7c95",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "컴퓨터그래픽스-장윤/Lecture 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -99,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md"
+                "file": "컴퓨터그래픽스-장윤/Lecture 1.md"
               }
             }
           }
@@ -160,11 +172,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "2968df70757f9fe6",
+  "active": "31a8c90db62b7c95",
   "lastOpenFiles": [
-    "Spring/Sectoin6/스프링 JdbcTemplate.md",
     "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
-    "무제 폴더",
+    "컴퓨터그래픽스-장윤/Lecture 1.md",
+    "컴퓨터그래픽스-장윤",
+    "Spring/Sectoin6/스프링 JdbcTemplate.md",
     "데이터베이스-신동일",
     "Spring/Sectoin6/스프링 통합 테스트.md",
     "Spring/Sectoin6/순수 JDBC.md",
