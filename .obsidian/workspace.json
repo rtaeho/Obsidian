@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2968df70757f9fe6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Spring/Sectoin6/스프링 JdbcTemplate.md",
+                "file": "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Spring/Sectoin6/스프링 JdbcTemplate.md",
+                "file": "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Spring/Sectoin6/스프링 JdbcTemplate.md"
+                "file": "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md"
               }
             }
           }
@@ -147,21 +160,22 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "7b4c11af67ea8eb0",
+  "active": "2968df70757f9fe6",
   "lastOpenFiles": [
+    "Spring/Sectoin6/스프링 JdbcTemplate.md",
+    "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
+    "무제 폴더",
+    "데이터베이스-신동일",
     "Spring/Sectoin6/스프링 통합 테스트.md",
     "Spring/Sectoin6/순수 JDBC.md",
     "Spring/Sectoin6/H2 데이터베이스 설치.md",
     "Spring/Sectoin6/스프링 데이터 JPA.md",
     "Spring/Sectoin6/JPA.md",
-    "Spring/Sectoin6/스프링 JdbcTemplate.md",
     "image/Pasted image 20240229184609.png",
-    "무제 파일.md",
     "image/Pasted image 20240229164411.png",
     "Spring/Section5/회원 웹 기능 - 조회.md",
     "Spring/Section5/회원 웹 기능 - 등록.md",
     "Spring/Section5/회원 웹 기능 - 홈 화면 추가.md",
-    "무제 폴더",
     "Spring/Sectoin6",
     "Spring/Section4/컴포넌트 스캔과 자동 의존관계 설정.md",
     "Spring/Section4/자바 코드로 직접 스프링 빈 등록하기.md",
