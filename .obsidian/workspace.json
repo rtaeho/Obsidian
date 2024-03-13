@@ -20,19 +20,31 @@
             }
           },
           {
-            "id": "2968df70757f9fe6",
+            "id": "5c0753af5b883679",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
+                "file": "생성형 인공지능 입문/1주차.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "31a8c90db62b7c95",
+            "id": "267b66a929f2615c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "모두를 위한 머신러닝/1주차.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9c5a358554f3e99f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -42,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "edcff28218631b08",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "컴퓨터그래픽스-장윤/Lecture 2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -111,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture 1.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture 1.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture 1.md"
+                "file": "컴퓨터그래픽스-장윤/Lecture 2.md"
               }
             }
           }
@@ -172,12 +196,20 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "31a8c90db62b7c95",
+  "active": "edcff28218631b08",
   "lastOpenFiles": [
-    "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
     "컴퓨터그래픽스-장윤/Lecture 1.md",
-    "컴퓨터그래픽스-장윤",
+    "컴퓨터그래픽스-장윤/Lecture 2.md",
+    "무제 폴더",
+    "미디어AI리터러시/1주차.md",
+    "모두를 위한 머신러닝/1주차.md",
+    "미디어AI리터러시",
+    "생성형 인공지능 입문/1주차.md",
+    "모두를 위한 머신러닝",
+    "생성형 인공지능 입문",
     "Spring/Sectoin6/스프링 JdbcTemplate.md",
+    "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
+    "컴퓨터그래픽스-장윤",
     "데이터베이스-신동일",
     "Spring/Sectoin6/스프링 통합 테스트.md",
     "Spring/Sectoin6/순수 JDBC.md",
@@ -207,14 +239,10 @@
     "image/Pasted image 20240218225652.png",
     "image/Pasted image 20240218225009.png",
     "image/Pasted image 20240218224904.png",
-    "Spring/Section3",
     "image/Pasted image 20240214151714.png",
     "image/Pasted image 20240214155321.png",
-    "image",
     "image/Pasted image 20240214161338.png",
     "Pasted image 20240214150901.png",
-    "Spring/Section2.md",
-    "Spring/Section2",
-    "Spring"
+    "Spring/Section2.md"
   ]
 }
