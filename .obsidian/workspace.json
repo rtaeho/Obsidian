@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "edcff28218631b08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture 2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "ef7687443745a5ef",
             "type": "leaf",
             "state": {
@@ -98,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture 2.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture 3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture 2.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture 2.md"
+                "file": "컴퓨터그래픽스-장윤/Lecture 3.md"
               }
             }
           }
@@ -159,14 +147,19 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "edcff28218631b08",
+  "active": "ef7687443745a5ef",
   "lastOpenFiles": [
-    "컴퓨터그래픽스-장윤/Lecture 3.md",
     "컴퓨터그래픽스-장윤/Lecture 2.md",
+    "컴퓨터그래픽스-장윤/Lecture 1.md",
+    "컴퓨터그래픽스-장윤/Lecture 3.md",
+    "Spring/Section3/비즈니스 요구사항 정리.md",
+    "Spring/Section3/회원 도메인과 리포지토리 만들기.md",
+    "Spring/Section2/API.md",
+    "Spring/Section2/MVC와 템플릿 엔진.md",
+    "Spring/Section2/정적 컨텐츠.md",
     "ch03_데이터베이스 시스템.md",
     "무제 파일 1.md",
     "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
-    "컴퓨터그래픽스-장윤/Lecture 1.md",
     "무제 폴더",
     "미디어AI리터러시/1주차.md",
     "모두를 위한 머신러닝/1주차.md",
@@ -192,13 +185,8 @@
     "Spring/Section4/자바 코드로 직접 스프링 빈 등록하기.md",
     "Spring/Section5",
     "image/Pasted image 20240220170124.png",
-    "Spring/Section3/비즈니스 요구사항 정리.md",
     "Spring/Section3/회원 서비스 테스트.md",
     "Spring/Section4",
-    "Spring/Section3/회원 서비스 개발.md",
-    "Spring/Section3/회원 리포지토리 테스트 케이스 작성.md",
-    "Spring/Section3/회원 도메인과 리포지토리 만들기.md",
-    "Spring/Section2/정적 컨텐츠.md",
     "image/MemoryMemberRepositoryTest.java",
     "image/Pasted image 20240218225652.png",
     "image/Pasted image 20240218225009.png",
