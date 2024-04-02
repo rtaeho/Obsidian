@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e9a38d0d8b0d91ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHIT - Chap5_Git&Github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture  6.md",
+                "file": "TECHIT - Chap5_Git&Github.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture  6.md",
+                "file": "TECHIT - Chap5_Git&Github.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture  6.md"
+                "file": "TECHIT - Chap5_Git&Github.md"
               }
             }
           }
@@ -147,12 +160,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "6509c30a730d98e7",
+  "active": "e9a38d0d8b0d91ec",
   "lastOpenFiles": [
-    "무제 파일.md",
     "컴퓨터그래픽스-장윤/Lecture  6.md",
+    "TECHIT - Chap5_Git&Github.md",
+    "LikeLion",
     "컴퓨터그래픽스-장윤/Lecture 5.md",
-    "무제 폴더",
     "image/Lecture 6.md",
     "컴퓨터그래픽스-장윤/Lecture 4.md",
     "컴퓨터그래픽스-장윤/Lecture 3.md",
@@ -182,7 +195,6 @@
     "Spring/Sectoin6/JPA.md",
     "image/Pasted image 20240229184609.png",
     "image/Pasted image 20240229164411.png",
-    "Spring/Section5/회원 웹 기능 - 조회.md",
     "Spring/Sectoin6",
     "Spring/Section5",
     "image/Pasted image 20240220170124.png",
