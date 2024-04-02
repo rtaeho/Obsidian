@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "903d6fe0244f89ec",
+            "id": "6509c30a730d98e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture 4.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture  6.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture 4.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture  6.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture 4.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture  6.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture 4.md"
+                "file": "컴퓨터그래픽스-장윤/Lecture  6.md"
               }
             }
           }
@@ -147,10 +147,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "903d6fe0244f89ec",
+  "active": "6509c30a730d98e7",
   "lastOpenFiles": [
-    "컴퓨터그래픽스-장윤/Lecture 3.md",
+    "무제 파일.md",
+    "컴퓨터그래픽스-장윤/Lecture  6.md",
+    "컴퓨터그래픽스-장윤/Lecture 5.md",
+    "무제 폴더",
+    "image/Lecture 6.md",
     "컴퓨터그래픽스-장윤/Lecture 4.md",
+    "컴퓨터그래픽스-장윤/Lecture 3.md",
     "컴퓨터그래픽스-장윤/Lecture 2.md",
     "컴퓨터그래픽스-장윤/Lecture 1.md",
     "Spring/Section3/비즈니스 요구사항 정리.md",
@@ -161,7 +166,6 @@
     "ch03_데이터베이스 시스템.md",
     "무제 파일 1.md",
     "데이터베이스-신동일/ch01_데이터베이스 기본 개념.md",
-    "무제 폴더",
     "미디어AI리터러시/1주차.md",
     "모두를 위한 머신러닝/1주차.md",
     "미디어AI리터러시",
@@ -179,11 +183,7 @@
     "image/Pasted image 20240229184609.png",
     "image/Pasted image 20240229164411.png",
     "Spring/Section5/회원 웹 기능 - 조회.md",
-    "Spring/Section5/회원 웹 기능 - 등록.md",
-    "Spring/Section5/회원 웹 기능 - 홈 화면 추가.md",
     "Spring/Sectoin6",
-    "Spring/Section4/컴포넌트 스캔과 자동 의존관계 설정.md",
-    "Spring/Section4/자바 코드로 직접 스프링 빈 등록하기.md",
     "Spring/Section5",
     "image/Pasted image 20240220170124.png",
     "Spring/Section4",
