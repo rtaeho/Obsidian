@@ -8,24 +8,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6509c30a730d98e7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨터그래픽스-장윤/Lecture  6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e9a38d0d8b0d91ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "TECHIT - Chap5_Git&Github.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a21a0ddc68f3db9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TECHIT - Chap6_HTML Beginner.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHIT - Chap5_Git&Github.md",
+                "file": "TECHIT - Chap6_HTML Beginner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHIT - Chap5_Git&Github.md",
+                "file": "TECHIT - Chap6_HTML Beginner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHIT - Chap5_Git&Github.md"
+                "file": "TECHIT - Chap6_HTML Beginner.md"
               }
             }
           }
@@ -160,10 +160,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "e9a38d0d8b0d91ec",
+  "active": "a21a0ddc68f3db9d",
   "lastOpenFiles": [
-    "컴퓨터그래픽스-장윤/Lecture  6.md",
     "TECHIT - Chap5_Git&Github.md",
+    "TECHIT - Chap6_HTML Beginner.md",
+    "컴퓨터그래픽스-장윤/Lecture  6.md",
     "LikeLion",
     "컴퓨터그래픽스-장윤/Lecture 5.md",
     "image/Lecture 6.md",
