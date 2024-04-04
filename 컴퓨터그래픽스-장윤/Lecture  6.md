@@ -4,7 +4,7 @@
 - window
 - world
 
-##### camra 세팅
+##### camera 세팅
 - glMatrixMode(GL_PROJECTION) -> 카메라 렌즈 세팅
 - glLoadIdentity() -> 초기화
 - glOrtho(left, right, bottom, top, near, far) -> x, y, z축 설정
