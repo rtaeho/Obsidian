@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "bd12714c970ae589",
+        "id": "8e330cd58456195b",
         "type": "tabs",
         "children": [
           {
-            "id": "5a0c668db2111d22",
+            "id": "a5cc908f2c682ca0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "TECHIT - Chap8_CSS Beginner.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "TECHIT - Chap8_CSS Beginner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "TECHIT - Chap8_CSS Beginner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "TECHIT - Chap8_CSS Beginner.md"
+              }
             }
           }
         ]
@@ -139,13 +147,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5a0c668db2111d22",
+  "active": "a5cc908f2c682ca0",
   "lastOpenFiles": [
+    "TECHIT - Chap8_CSS Beginner.md",
+    "TECHIT - Chap7_HTML Next Level.md",
+    "TECHIT - Chap6_HTML Beginner.md",
+    "TECHIT - Chap5_Git&Github.md",
     "컴퓨터그래픽스-장윤/Lecture 8.md",
     "컴퓨터그래픽스-장윤/Lecture 7.md",
     "컴퓨터그래픽스-장윤/Lecture  6.md",
-    "TECHIT - Chap6_HTML Beginner.md",
-    "TECHIT - Chap5_Git&Github.md",
     "LikeLion",
     "컴퓨터그래픽스-장윤/Lecture 5.md",
     "image/Lecture 6.md",
@@ -171,8 +181,6 @@
     "컴퓨터그래픽스-장윤",
     "데이터베이스-신동일",
     "Spring/Sectoin6/스프링 통합 테스트.md",
-    "Spring/Sectoin6/순수 JDBC.md",
-    "Spring/Sectoin6/H2 데이터베이스 설치.md",
     "image/Pasted image 20240229184609.png",
     "image/Pasted image 20240229164411.png",
     "Spring/Sectoin6",
