@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "8e330cd58456195b",
+        "id": "08891940e9e9f111",
         "type": "tabs",
         "children": [
           {
-            "id": "a5cc908f2c682ca0",
+            "id": "5f751707cddec964",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TECHIT - Chap8_CSS Beginner.md",
+                "file": "Lecture 10.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TECHIT - Chap8_CSS Beginner.md",
+                "file": "Lecture 10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TECHIT - Chap8_CSS Beginner.md",
+                "file": "Lecture 10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TECHIT - Chap8_CSS Beginner.md"
+                "file": "Lecture 10.md"
               }
             }
           }
@@ -147,13 +147,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a5cc908f2c682ca0",
+  "active": "5f751707cddec964",
   "lastOpenFiles": [
+    "Lecture 10.md",
+    "컴퓨터그래픽스-장윤/Lecture 9.md",
+    "컴퓨터그래픽스-장윤/Lecture 8.md",
     "TECHIT - Chap8_CSS Beginner.md",
     "TECHIT - Chap7_HTML Next Level.md",
     "TECHIT - Chap6_HTML Beginner.md",
     "TECHIT - Chap5_Git&Github.md",
-    "컴퓨터그래픽스-장윤/Lecture 8.md",
     "컴퓨터그래픽스-장윤/Lecture 7.md",
     "컴퓨터그래픽스-장윤/Lecture  6.md",
     "LikeLion",
@@ -177,10 +179,8 @@
     "생성형 인공지능 입문/1주차.md",
     "모두를 위한 머신러닝",
     "생성형 인공지능 입문",
-    "Spring/Sectoin6/스프링 JdbcTemplate.md",
     "컴퓨터그래픽스-장윤",
     "데이터베이스-신동일",
-    "Spring/Sectoin6/스프링 통합 테스트.md",
     "image/Pasted image 20240229184609.png",
     "image/Pasted image 20240229164411.png",
     "Spring/Sectoin6",
