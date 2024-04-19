@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "87e53ac0ec51c093",
+        "id": "4f142afe75bc4d4b",
         "type": "tabs",
         "children": [
           {
-            "id": "480e9be741a7240b",
+            "id": "0fadc53f404fa5da",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "9e1dddfc39af3960",
@@ -138,8 +139,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "480e9be741a7240b",
+  "active": "0fadc53f404fa5da",
   "lastOpenFiles": [
+    "Lecture1 - Computer System Overview.md",
+    "image/Pasted image 20240419144653.png",
+    "image/Pasted image 20240419141957.png",
+    "image/Pasted image 20240419141944.png",
+    "image/Pasted image 20240419002151.png",
+    "운영체제",
     "운영체제/Lecture1 - Computer System Overview.md",
     "LikeLion/TECHIT - Chap8_CSS Beginner.md",
     "LikeLion/TECHIT - Chap6_HTML Beginner.md",
@@ -166,8 +173,6 @@
     "Spring/Section3/회원 도메인과 리포지토리 만들기.md",
     "Spring/Section2/API.md",
     "Spring/Section2/MVC와 템플릿 엔진.md",
-    "Spring/Section2/정적 컨텐츠.md",
-    "ch03_데이터베이스 시스템.md",
     "미디어AI리터러시",
     "모두를 위한 머신러닝",
     "생성형 인공지능 입문",
@@ -178,13 +183,8 @@
     "Spring/Sectoin6",
     "Spring/Section5",
     "image/Pasted image 20240220170124.png",
-    "Spring/Section4",
     "image/Pasted image 20240218225652.png",
     "image/Pasted image 20240218225009.png",
-    "image/Pasted image 20240218224904.png",
-    "image/Pasted image 20240214151714.png",
-    "image/Pasted image 20240214155321.png",
-    "image/Pasted image 20240214161338.png",
-    "Pasted image 20240214150901.png"
+    "image/Pasted image 20240218224904.png"
   ]
 }
