@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LikeLion/TECHIT - Chap8_CSS Beginner.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture 5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LikeLion/TECHIT - Chap8_CSS Beginner.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture 5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LikeLion/TECHIT - Chap8_CSS Beginner.md",
+                "file": "컴퓨터그래픽스-장윤/Lecture 5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LikeLion/TECHIT - Chap8_CSS Beginner.md"
+                "file": "컴퓨터그래픽스-장윤/Lecture 5.md"
               }
             }
           }
@@ -148,11 +148,22 @@
   },
   "active": "d4b7f91f46b8df25",
   "lastOpenFiles": [
+    "컴퓨터그래픽스-장윤/Lecture  6.md",
+    "컴퓨터그래픽스-장윤/Lecture 8.md",
     "컴퓨터그래픽스-장윤/Lecture 13.md",
     "컴퓨터그래픽스-장윤/Lecture 12.md",
+    "컴퓨터그래픽스-장윤/Lecture 11.md",
+    "컴퓨터그래픽스-장윤/Lecture 10.md",
+    "컴퓨터그래픽스-장윤/Lecture 9.md",
+    "컴퓨터그래픽스-장윤/Lecture 7.md",
+    "컴퓨터그래픽스-장윤/Lecture 3.md",
+    "컴퓨터그래픽스-장윤/Lecture 4.md",
+    "컴퓨터그래픽스-장윤/Lecture 5.md",
+    "컴퓨터그래픽스-장윤/Lecture 2.md",
+    "컴퓨터그래픽스-장윤/Lecture 1.md",
+    "LikeLion/TECHIT - Chap8_CSS Beginner.md",
     "운영체제/Lecture1 - Computer System Overview.md",
     "무제 폴더",
-    "컴퓨터그래픽스-장윤/Lecture 11.md",
     "운영체제/운체 질문.md",
     "image/Pasted image 20240419144653.png",
     "image/Pasted image 20240419141957.png",
@@ -160,21 +171,10 @@
     "image/Pasted image 20240419002151.png",
     "운영체제",
     "운영체제/Lecture1 - Computer System Overview.md",
-    "LikeLion/TECHIT - Chap8_CSS Beginner.md",
     "LikeLion/TECHIT - Chap6_HTML Beginner.md",
     "LikeLion/TECHIT - Chap7_HTML Next Level.md",
     "운영체제",
     "LikeLion/TECHIT - Chap5_Git&Github.md",
-    "컴퓨터그래픽스-장윤/Lecture 2.md",
-    "컴퓨터그래픽스-장윤/Lecture 3.md",
-    "컴퓨터그래픽스-장윤/Lecture 4.md",
-    "컴퓨터그래픽스-장윤/Lecture 5.md",
-    "컴퓨터그래픽스-장윤/Lecture 8.md",
-    "컴퓨터그래픽스-장윤/Lecture 7.md",
-    "컴퓨터그래픽스-장윤/Lecture  6.md",
-    "컴퓨터그래픽스-장윤/Lecture 10.md",
-    "컴퓨터그래픽스-장윤/Lecture 9.md",
-    "컴퓨터그래픽스-장윤/Lecture 1.md",
     "MySQL Workbench 설치 오류.md",
     "Spring/Section3/회원 리포지토리 테스트 케이스 작성.md",
     "LikeLion",
