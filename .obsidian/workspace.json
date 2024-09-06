@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "a173cb784dbb0027",
+        "id": "891ed77c647aae3d",
         "type": "tabs",
         "children": [
           {
-            "id": "a8e4bd36cfb6886e",
+            "id": "b46e14c57987e7a4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "컴퓨터네트워크/9월 3일.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "컴퓨터네트워크/9월 3일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "컴퓨터네트워크/9월 3일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "컴퓨터네트워크/9월 3일.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -147,9 +139,9 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a8e4bd36cfb6886e",
+  "active": "b46e14c57987e7a4",
   "lastOpenFiles": [
-    "컴퓨터네트워크/9월 3일.md",
+    "컴퓨터네트워크/1강.md",
     "컴퓨터네트워크",
     "컴퓨터그래픽스-장윤/Lecture 5.md",
     "컴퓨터그래픽스-장윤/Lecture  6.md",
